@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-| [Articles](./another-page.html).        | [Link to another page](./another-page.html).          | [Link to another page](./another-page.html). |
+| [Articles](./another-page.html)        | [Link to another page](./another-page.html)          | [Link to another page](./another-page.html) |
 
 # Experience
 
