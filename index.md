@@ -1,6 +1,24 @@
 ---
 layout: default
 ---
+# Experience
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+*   Threat Modeling.
+*   SCADA Penetration Testing.
+*   IoT and IIoT Penetration Testing
+*   Thick Client Penetration Testing.
+*   Web Application Penetration Testing.
+*   Mobile application Penetration Testing.
+*   Cloud and On Premise Infrastructure Penetration Testing.
+*   Exploit vulnerabilities and gain access to remote systems.
+*   Document technical issues and recommend mitigation controls identified during security assessments.
+
+
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
