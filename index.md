@@ -3,7 +3,7 @@ layout: default
 ---
 # Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Certified Profesional, expert in systems infiltration, information leakage and cyber warfare techniques, passionate about offensive security, digital forensic techniques and the detection of malware. Thirteen years on the banking sector have provided the experience and training to protect the confidentiality, integrity and availability of large systems.
 
 *   Threat Modeling.
 *   SCADA Penetration Testing.
